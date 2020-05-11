@@ -29,7 +29,8 @@ header {
 }
 body {
     background-image: url("https://www.pngfind.com/pngs/m/473-4732816_artificial-neural-network-neuron-neural-circuit-deep-music.png");
-}
+    opacity: 0.50;
+  }
 #titles {
     color: darkslateblue;
 }
