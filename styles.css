@@ -1,0 +1,39 @@
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.76471;
+    letter-spacing: 0;
+    text-align: center
+}
+body, html {
+    background-color: #ebecf1;
+    opacity: 0.5;
+    margin: 0;
+    padding: 0
+}
+header {
+	text-align: center;
+}
+body {
+    background-image: url("https://www.pngfind.com/pngs/m/473-4732816_artificial-neural-network-neuron-neural-circuit-deep-music.png");
+}
+#titles {
+    color: darkslateblue;
+}
+
+
+
+
